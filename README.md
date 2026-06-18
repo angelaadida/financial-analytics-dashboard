@@ -69,6 +69,18 @@ A comprehensive 15-page financial analytics dashboard built in Power BI, coverin
 ### Income Statement Analysis
 ![Income Statement](preview_income_statement.png)
 
+### DuPont & Break-Even Analysis
+![DuPont](preview_dupont_breakeven.png)
+
+### Liquidity & Working Capital
+![Liquidity](preview_liquidity_working.png)
+
+### Assets & Working Capital
+![Assets](preview_assets_capital.png)
+
+### Accounts Payable Analysis
+![AP](preview_accounts_payable.png)
+
 ---
 
 ## 👩‍💻 About
