@@ -85,7 +85,7 @@ A comprehensive 15-page financial analytics dashboard built in Power BI, coverin
 
 ## 👩‍💻 About
 
-Built by **Angela Nguyen Hao** — Data Scientist & BI Specialist
+Built by **Angela** — Data Scientist & BI Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angela_Nguyen_Hao-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-n-25945b338)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angela_-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-n-25945b338)
 [![GitHub](https://img.shields.io/badge/GitHub-angelaadida-181717?style=flat&logo=github&logoColor=white)](https://github.com/angelaadida)
